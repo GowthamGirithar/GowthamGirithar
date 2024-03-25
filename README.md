@@ -5,14 +5,23 @@ A senior software engineer with over a decade of practical experience in the eve
 Skills:
 
 Programming:  Golang, Java
+
 Database: MYSQL, DynamoDB, DB2, Mongo DB, SAP HANA
+
 Message Broker:  Rabbit MQ , SNS-SQS ,Apache Kafka
-Versioning Tools:  GitHub
+
+Versioning Tools:  obviously 😄
+
 Cloud: AWS 
+
 Code Quality Tools: SONAR, Fortify, Checkmarx, Codacy
+
 Tools: SSH (putty), Kali Linux penetration testing tools, JIRA, Dynatrace, Kibana, JMeter , K6 (Load Testing)
+
 Build Tools:  Maven
+
 DevOps Skills: Docker, Kubernetes, and Jenkins
+
 Observability Tool : DataDog
 
 Experiences in both monolithic and micro-services architecture.
