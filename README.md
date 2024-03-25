@@ -20,7 +20,7 @@ Tools: SSH (putty), Kali Linux penetration testing tools, JIRA, Dynatrace, Kiban
 
 Build Tools:  Maven
 
-DevOps Skills: Docker, Kubernetes, and Jenkins
+DevOps : Docker, Kubernetes, Jenkins and Drone
 
 Observability Tool : DataDog
 
