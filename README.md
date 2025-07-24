@@ -4,7 +4,7 @@ A senior software engineer with over a decade of practical experience in the eve
 
 Skills:
 
-Programming:  Golang, Java
+Programming:  Golang, Java , Python
 
 Database: MYSQL, DynamoDB, DB2, Mongo DB, SAP HANA
 
@@ -22,7 +22,9 @@ Build Tools:  Maven
 
 DevOps : Docker, Kubernetes, Jenkins and Drone
 
-Observability Tool : DataDog
+Observability Tool : DataDog, Grafana, LangSmith
+
+AI Framework : LangChain, LangGraph
 
 Experiences in both monolithic and micro-services architecture.
 
